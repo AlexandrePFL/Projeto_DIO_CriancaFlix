@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\CriancaFlix\bin\Debug\netcoreapp3.1\CriancaFlix.exe
+C:\Users\Alexandre\source\repos\CriancaFlix\bin\Debug\netcoreapp3.1\CriancaFlix.deps.json
+C:\Users\Alexandre\source\repos\CriancaFlix\bin\Debug\netcoreapp3.1\CriancaFlix.runtimeconfig.json
+C:\Users\Alexandre\source\repos\CriancaFlix\bin\Debug\netcoreapp3.1\CriancaFlix.runtimeconfig.dev.json
+C:\Users\Alexandre\source\repos\CriancaFlix\bin\Debug\netcoreapp3.1\CriancaFlix.dll
+C:\Users\Alexandre\source\repos\CriancaFlix\bin\Debug\netcoreapp3.1\CriancaFlix.pdb
+C:\Users\Alexandre\source\repos\CriancaFlix\obj\Debug\netcoreapp3.1\CriancaFlix.csproj.AssemblyReference.cache
+C:\Users\Alexandre\source\repos\CriancaFlix\obj\Debug\netcoreapp3.1\CriancaFlix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\CriancaFlix\obj\Debug\netcoreapp3.1\CriancaFlix.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\CriancaFlix\obj\Debug\netcoreapp3.1\CriancaFlix.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\CriancaFlix\obj\Debug\netcoreapp3.1\CriancaFlix.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\CriancaFlix\obj\Debug\netcoreapp3.1\CriancaFlix.dll
+C:\Users\Alexandre\source\repos\CriancaFlix\obj\Debug\netcoreapp3.1\CriancaFlix.pdb
+C:\Users\Alexandre\source\repos\CriancaFlix\obj\Debug\netcoreapp3.1\CriancaFlix.genruntimeconfig.cache
